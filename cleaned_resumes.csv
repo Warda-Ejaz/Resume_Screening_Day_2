@@ -1,0 +1,4 @@
+Category,Resume_Text,Skills,Experience,Cleaned_Resume,Resume_Length,Skills_Count,Experience_Bin
+Data Science,Python developer with Django SQL ML experience,Python developer with Django SQL ML experience,1,python developer with django sql ml experience,7,1,0-2
+Software Engineer,Java developer Spring Boot microservices API,Java developer Spring Boot microservices API,4,java developer spring boot microservices api,6,1,3-5
+Web Developer,React JavaScript HTML CSS frontend developer,React JavaScript HTML CSS frontend developer,2,react javascript html css frontend developer,6,1,0-2
